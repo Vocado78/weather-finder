@@ -1,0 +1,2 @@
+# Weather Finder
+A single page application built with React, React Router and the OpenWeatherMap API for finding and viewing the current weather as well as a detailed five-day forecast for any city or town in the world. The project was set-up from scratch (i.e. no use of  Creat React App) and is an assignment included in the course [React Fundamentals](https://github.com/tylermcginnis/react-fundamentals-curriculum). Have a look at and try the app [here](https://weather-finder-1245b.firebaseapp.com).
